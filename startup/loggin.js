@@ -13,5 +13,5 @@ module.exports = function () {
             process.exit(1);
         }, 500);
     });
-    winston.add(winston.transports.File, { filename: 'logFile.log' });
+    winston.add(winston.transports.File, { filename: 'log.log' });
 }

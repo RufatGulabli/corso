@@ -1,4 +1,4 @@
 {
-    "JWT": "tokenForNode",
+    "JWT": "authToken",
     "PORT": "PORT"
 }
