@@ -1,0 +1,23 @@
+{
+  "name": "corso",
+  "version": "1.0.0",
+  "description": "Program for Course Managing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RufatGulabli/corso.git"
+  },
+  "keywords": [
+    "course",
+    "pan"
+  ],
+  "author": "Rufat Gulabli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RufatGulabli/corso/issues"
+  },
+  "homepage": "https://github.com/RufatGulabli/corso#readme"
+}
